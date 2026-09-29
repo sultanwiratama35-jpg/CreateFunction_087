@@ -15,4 +15,4 @@ if unit.upper() == 'C':
 elif unit.upper() == 'F':
     print(f"{input_suhu}°F = {konversi:.2f}°C")
 else:
-    print("Satuan tidak dikenal.")
+    print("Satuan tidak dikenal/Valid.")
